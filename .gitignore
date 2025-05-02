@@ -1,1 +1,7 @@
 venv/
+leadprofile/.venv
+leadprofile/.env
+leadprofile/__pycache__/
+leadprofile/.DS_Store
+
+run_flow.ipynb
