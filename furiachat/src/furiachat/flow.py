@@ -4,10 +4,10 @@ LeadProfileFlow ― orquestra todo o pipeline em passos declarativos.
 from crewai import Flow
 from crewai.flow.flow import start, listen
 from typing import List, Dict
-from leadprofile.crew import Leadprofile
-from leadprofile.src.leadprofile.crew import Leadprofile
-from leadprofile.utils.cost import gpt4o_mini_cost
-from leadprofile.utils.usage import usage_to_dict
+from furiachat.crew import Leadprofile
+from furiachat.src.leadprofile.crew import Leadprofile
+from furiachat.utils.cost import gpt4o_mini_cost
+from furiachat.utils.usage import usage_to_dict
 
 # ─────────────────────────────── FLOW ──────────────────────────────────────
 

@@ -1,7 +1,6 @@
-venv/
-leadprofile/.venv
-leadprofile/.env
-leadprofile/__pycache__/
-leadprofile/.DS_Store
-
-run_flow.ipynb
+.venv/
+furiachat/.venv
+furiachat/__pycache__/
+furiachat/.DS_Store
+.env
+testes.ipynb

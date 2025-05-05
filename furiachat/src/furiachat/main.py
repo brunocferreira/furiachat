@@ -6,7 +6,7 @@ import warnings
 
 from datetime import datetime
 
-from leadprofile.crew import Leadprofile
+from furiachat.crew import Leadprofile
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 

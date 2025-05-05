@@ -1,0 +1,11 @@
+### TASKS ######################################################################
+furia_query:
+  description: >
+    Responda à pergunta informada pelo usuário (campo `{question}`) em português.
+    Use a ferramenta **hltv_scraper** conforme necessário para coletar dados
+    atualizados.  Inclua sempre, entre parênteses, o link da HLTV de onde a
+    informação foi extraída.  Mantenha a resposta objetiva, em até 3 frases.
+  expected_output: >
+    Texto curto em Markdown (≤ 3 frases) com a URL da HLTV citada entre
+    parênteses, sem JSON.
+  agent: pantera_analyst
